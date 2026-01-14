@@ -3,9 +3,11 @@
 Este guia é para **Minecraft Java 1.20.1 + Forge**.
 
 Você vai precisar:
+
 - Java 17
 - Minecraft Java **1.20.1**
-- **Forge 1.20.1 (47.x)** *(use a mesma versão do servidor, se possível)*
+- **Forge 1.20.1 (47.x)**:
+- - Baixe o instalador do Forge [aqui](https://github.com/alexandrebeato/mine-server/raw/main/forge-1.20.1-47.4.10-installer).
 - Os mods **.jar** (vou te passar os links)
 
 ---
@@ -25,9 +27,9 @@ Você vai precisar:
 
 Baixe os arquivos `.jar` pelos links fornecidos:
 
-- **Architectury API (Forge)**: [COLOCAR LINK AQUI]
-- **Skin Changer (Forge)**: [COLOCAR LINK AQUI]
-- **EpicSiegeMod (Forge)**: [COLOCAR LINK AQUI]
+- Architecture API (Forge): https://github.com/alexandrebeato/mine-server/raw/main/mods/architectury-9.2.14-forge.jar
+- Skin Changer (Forge): https://github.com/alexandrebeato/mine-server/raw/main/mods/skin_changer-forge-1.20.1-0.6.6.jar
+- EpicSiegeMod (Forge): https://github.com/alexandrebeato/mine-server/raw/main/mods/EpicSiegeMod-14.171.jar
 
 > Importante: baixe **exatamente** as versões indicadas (principalmente para **Forge 1.20.1**).
 
@@ -36,16 +38,22 @@ Baixe os arquivos `.jar` pelos links fornecidos:
 ## 3) Colocar os mods na pasta `mods`
 
 ### Windows
+
 1. Pressione `Win + R`
 2. Digite:
+
 ```
 
 %appdata%.minecraft
 
 ```
+
 3. Abra a pasta **mods**
+
 - Se não existir, crie uma pasta chamada `mods`
+
 4. Copie os 3 arquivos `.jar` para dentro de:
+
 ```
 
 %appdata%.minecraft\mods
