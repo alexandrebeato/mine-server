@@ -7,7 +7,7 @@ Você vai precisar:
 - Java 17
 - Minecraft Java **1.20.1**
 - **Forge 1.20.1 (47.x)**:
-- - Baixe o instalador do Forge [aqui](https://github.com/alexandrebeato/mine-server/raw/main/forge-1.20.1-47.4.10-installer).
+- - Baixe o instalador do Forge [aqui](https://github.com/alexandrebeato/mine-server/raw/main/forge-1.20.1-47.4.10-installer.jar).
 - Os mods **.jar** (vou te passar os links)
 
 ---
